@@ -343,7 +343,7 @@ h1, h2, h3, h4, h5, h6 {
   
   #hero h1 .markettit{
     font-size: 24px;
-    color: #888f88;
+    color: #00d6ab;
   }
   
 
@@ -432,7 +432,7 @@ section {
 .about .content ul li {
   margin-bottom: 20px;
   display: flex;
-  align-items: center;
+  align-items: baseline;
 }
 
 .about .content ul strong {
